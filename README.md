@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Hi,humans!
+My name is Cade. A student at Catawba. I'm here becuase of my Foundations of IS class.
